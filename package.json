@@ -1,7 +1,7 @@
 {
   "name": "electronproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "shopping list",
   "main": "main.js",
   "dependencies": {
     "electron": "^5.0.6"
